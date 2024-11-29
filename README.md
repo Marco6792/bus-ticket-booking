@@ -4,7 +4,7 @@ A beautiful and modern web application for booking bus tickets, built with Next.
 
 ## Project Overview
 
-This project was created during a pair programming session where Marco helped Flore learn modern web development practices. The focus was on creating a professional, user-friendly interface with beautiful animations and responsive design.
+
 
 ### 🎨 Key Features
 
@@ -24,7 +24,7 @@ This project was created during a pair programming session where Marco helped Fl
 
 ### 💡 Learning Objectives
 
-During our session, we covered:
+
 1. Modern component architecture
 2. Responsive design principles
 3. CSS animations and transitions
@@ -81,7 +81,7 @@ src/
 
 ## 📝 Notes from Marco
 
-Hey Flore! I'm really proud of what we've built together. Remember these key points:
+Hey Flore!  Remember these key points:
 
 1. Always focus on user experience first
 2. Keep the code clean and well-documented
